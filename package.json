@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-notifier": "^10.0.0",
+    "node-qiwi-promise-api": "^0.0.2"
+  }
+}
