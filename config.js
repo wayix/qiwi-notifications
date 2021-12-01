@@ -2,9 +2,9 @@ module.exports = {
     notifications: {
         img: {
             error: './img/error_default.png', // Иконка при ошибке
-            transfer: './img/transfer_default.png', // Икона при переводе
-            balance: './img/balance_default.png',
-            newPayment: './img/leon.png'// Икона при проверке баланса
+            transfer: './img/transfer_default.png', // Иконка при переводе
+            balance: './img/balance_default.png', // Инконка при проверке баланса
+            newPayment: './img/leon.png'// Икона при новом платеже
         }, // Картинки
         sound: true, // Звук (true / false)
     },
